@@ -1,0 +1,13 @@
+C:\Users\MONSTER\source\repos\accessyedek\accessyedek\bin\Debug\accessyedek.exe.config
+C:\Users\MONSTER\source\repos\accessyedek\accessyedek\bin\Debug\accessyedek.exe
+C:\Users\MONSTER\source\repos\accessyedek\accessyedek\bin\Debug\accessyedek.pdb
+C:\Users\MONSTER\source\repos\accessyedek\accessyedek\obj\Debug\accessyedek.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\accessyedek\accessyedek\obj\Debug\accessyedek.Form1.resources
+C:\Users\MONSTER\source\repos\accessyedek\accessyedek\obj\Debug\accessyedek.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\accessyedek\accessyedek\obj\Debug\accessyedek.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\accessyedek\accessyedek\obj\Debug\accessyedek.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\accessyedek\accessyedek\obj\Debug\accessyedek.exe
+C:\Users\MONSTER\source\repos\accessyedek\accessyedek\obj\Debug\accessyedek.pdb
+C:\Users\MONSTER\source\repos\accessyedek\accessyedek\obj\Debug\accessyedek.geriyukle.resources
+C:\Users\MONSTER\source\repos\accessyedek\accessyedek\obj\Debug\accessyedek.hakkinda.resources
+C:\Users\MONSTER\source\repos\accessyedek\accessyedek\obj\Debug\accessyedek.yedekgecmis.resources
